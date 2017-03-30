@@ -13,10 +13,15 @@ crie um *pull request* para a avaliação. Exemplo:
 
 ```
 html-exercises/
+|-- en/
+|-- pt-br/
 |-- joao-da-silva/
 |   |-- 1.i/
 |   |   |-- index.html
 |   |-- 1.ii/
+|   |   |-- index.html
+|-- LICENSE
+|-- README.md
 ```
 
 Caso você não esteja familiar com os termos *fork*, *clone* e *pull request* é recomendado o que seja feito esse  
@@ -31,6 +36,7 @@ Segue abaixo a lista de exercício para a prática da linguagem HTML.
 1. **HTML Básico**
     1. [Criar uma página para o curso de Sistemas de Informação](1.i/README.md)
     1. [Criar um Curriculum Vitae Online](1.ii/README.md)
+    1. [Livro Online](1.iii/README.md)
 1. **Tabela**
     1. Em breve
 1. **Formulários**
